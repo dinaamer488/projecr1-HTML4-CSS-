@@ -121,6 +121,9 @@ body{
     margin: auto;
     margin-bottom: 50px;
 }
+.home{
+    padding: 120px 0;
+}
 .home-container{
     width: 80%;
     margin: auto;
